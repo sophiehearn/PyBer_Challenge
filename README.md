@@ -4,7 +4,7 @@ PyBer leadership is interested in analyzing a large amount of its internal data 
 
 ## Overview 
 
-For this project, PyBer has requested an analysis of its ridesharing data broken down by city-type -- rural, urban, and suburban. 
+For this project, PyBer has requested an analysis of its ridesharing data broken down by city-type -- rural, urban, and suburban. From this, they are hoping for more insight on where to invest in the future of the company. 
 
 ## Results 
 
